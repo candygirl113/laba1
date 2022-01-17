@@ -1,1 +1,2 @@
-# laba1
+# laba1.github.com
+
